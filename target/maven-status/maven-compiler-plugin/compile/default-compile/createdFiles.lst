@@ -1,0 +1,5 @@
+com\aayknija\utils\CommonConstants.class
+com\aayknija\rest\RestCallerHelperImpl.class
+com\aayknija\config\Configuration.class
+com\aayknija\rest\RestCallerHelper.class
+com\aayknija\helper\WeatherForecastAPIHelper.class
