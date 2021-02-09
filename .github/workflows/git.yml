@@ -19,4 +19,4 @@ jobs:
       with:
         java-version: 11
     - name: Build with Maven
-      run: mvn ${MAVEN_CLI_OPTS} --settings "${MVN_SETTINGS}" verify -DApkiKey="35e68a5313mshe5c7cf1084269ccp104851jsncacc91a58747"
+      run: mvn -B package --file pom.xml
